@@ -19,20 +19,7 @@
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/omkar-bhambe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://kaggle.com/omkarbhambe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
-  </a>
-  <a href="https://www.hackerrank.com/omkarbhambe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="HackerRank" height="30" width="30" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/bhambeyqha" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="30" />
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/omkarbhambe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/> </a> &nbsp; <a href="https://www.kaggle.com/omkarbhambe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="30" height="30"/> </a> &nbsp; <a href="https://www.hackerrank.com/omkarbhambe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="30" height="30"/> </a> &nbsp; <a href="https://auth.geeksforgeeks.org/user/bhambeyqha" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/> </a> </p>
 
 ---
 
