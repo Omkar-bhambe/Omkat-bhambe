@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-bhambe-9450182ba/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b6omuk54arzeeg3hmxp2rlq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-bhambe-9450182ba/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3b6omuk54arzeeg3hmxp2rlq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar bhambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar bhambe" height="30" width="40" /></a>
 <a href="https://kaggle.com/omkarbhambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omkarbhambe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@bhambeomkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhambeomkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhambeyqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhambeyqha" height="30" width="40" /></a>
