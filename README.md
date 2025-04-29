@@ -38,7 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
-  <img src=["https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"](https://th.bing.com/th/id/R.b1c7915bb813b58c46c7d08a2bf6f567?rik=2j8zAkmT2yYu3A&riu=http%3a%2f%2faishelf.org%2fwp-content%2fuploads%2f2019%2f04%2fflask.png&ehk=ANCe1tghYE8Mhzpry43LB99tc4mSvmMeOkMhy5nHfjI%3d&risl=&pid=ImgRaw&r=0) alt="Flask" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
