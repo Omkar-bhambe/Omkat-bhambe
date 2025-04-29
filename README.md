@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/omkar bhambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar bhambe" height="30" width="40" /></a>
 <a href="https://kaggle.com/omkarbhambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omkarbhambe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bhambeomkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhambeomkar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omkar bhambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkar bhambe" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhambeyqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhambeyqha" height="30" width="40" /></a>
 </p>
 
